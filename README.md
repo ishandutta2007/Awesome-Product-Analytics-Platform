@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Product-Analytics-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Product-Analytics-Platform?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Product-Analytics-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Product-Analytics-Platform?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Product-Analytics-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Product-Analytics-Platform?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Product-Analytics-Platform/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Product-Analytics-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT" /></a>
@@ -66,63 +66,63 @@ The table below provides a comprehensive comparison of leading SaaS product anal
 
 > 🎛️ **The Open-Source Revolution in Product Analytics**: Open-source platforms provide complete data sovereignty, zero vendor lock-in, customizable pipelines, and full GDPR/CCPA compliance.
 
-The following repositories represent the most popular and actively maintained open-source product analytics, web analytics, session replay, and feature flag tools, **ranked in descending order by GitHub Stars**:
+The following repositories represent the most popular and actively maintained open-source product analytics, web analytics, session replay, and feature flag tools, **ranked in descending order by GitHub_Stars**:
 
-1. **[PostHog](https://github.com/PostHog/posthog)** [![GitHub stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)  
+1. **[PostHog](https://github.com/PostHog/posthog)** [![GitHub_Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)  
    The undisputed category leader in open-source product analytics. Offers an all-in-one developer platform featuring event analytics, conversion funnels, retention cohorts, session replays, feature flags, A/B testing experiments, user surveys, error tracking, and a built-in data warehouse.
 
-2. **[Umami](https://github.com/umami-software/umami)** [![GitHub stars](https://img.shields.io/github/stars/umami-software/umami?style=social&color=white)](https://github.com/umami-software/umami/stargazers)  
+2. **[Umami](https://github.com/umami-software/umami)** [![GitHub_Stars](https://img.shields.io/github/stars/umami-software/umami?style=social&color=white)](https://github.com/umami-software/umami/stargazers)  
    Simple, fast, privacy-focused open-source analytics platform. Supports custom event tracking, conversion funnels, real-time user activity, and lightweight self-hosting on PostgreSQL/MySQL without cookie consent banners.
 
-3. **[Plausible Analytics](https://github.com/plausible/analytics)** [![GitHub stars](https://img.shields.io/github/stars/plausible/analytics?style=social&color=white)](https://github.com/plausible/analytics/stargazers)  
+3. **[Plausible Analytics](https://github.com/plausible/analytics)** [![GitHub_Stars](https://img.shields.io/github/stars/plausible/analytics?style=social&color=white)](https://github.com/plausible/analytics/stargazers)  
    Lightweight, privacy-first open-source analytics engine built with Elixir and ClickHouse. Features custom event conversion tracking, goal funnels, outbound link tracking, and a clean, lightweight script footprint (<1KB).
 
-4. **[Matomo](https://github.com/matomo-org/matomo)** [![GitHub stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social&color=white)](https://github.com/matomo-org/matomo/stargazers)  
+4. **[Matomo](https://github.com/matomo-org/matomo)** [![GitHub_Stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social&color=white)](https://github.com/matomo-org/matomo/stargazers)  
    The most mature open-source analytics platform (formerly Piwik). Highly extensible with rich plugin ecosystems for goal tracking, funnel conversion analysis, heatmaps, form analytics, and strict enterprise privacy compliance.
 
-5. **[Rybbit](https://github.com/rybbit-io/rybbit)** [![GitHub stars](https://img.shields.io/github/stars/rybbit-io/rybbit?style=social&color=white)](https://github.com/rybbit-io/rybbit/stargazers)  
+5. **[Rybbit](https://github.com/rybbit-io/rybbit)** [![GitHub_Stars](https://img.shields.io/github/stars/rybbit-io/rybbit?style=social&color=white)](https://github.com/rybbit-io/rybbit/stargazers)  
    Modern open-source cookieless web and product analytics platform with session replay, behavioral conversion funnels, multi-step customer journey mapping, and customizable real-time dashboards.
 
-6. **[OpenReplay](https://github.com/openreplay/openreplay)** [![GitHub stars](https://img.shields.io/github/stars/openreplay/openreplay?style=social&color=white)](https://github.com/openreplay/openreplay/stargazers)  
+6. **[OpenReplay](https://github.com/openreplay/openreplay)** [![GitHub_Stars](https://img.shields.io/github/stars/openreplay/openreplay?style=social&color=white)](https://github.com/openreplay/openreplay/stargazers)  
    Self-hosted session replay and product analytics suite designed for debugging digital products. Combines visual session playback with browser devtools (network payload inspection, console errors, state tracking) and funnel drop-off analytics.
 
-7. **[HyperDX](https://github.com/hyperdxio/hyperdx)** [![GitHub stars](https://img.shields.io/github/stars/hyperdxio/hyperdx?style=social&color=white)](https://github.com/hyperdxio/hyperdx/stargazers)  
+7. **[HyperDX](https://github.com/hyperdxio/hyperdx)** [![GitHub_Stars](https://img.shields.io/github/stars/hyperdxio/hyperdx?style=social&color=white)](https://github.com/hyperdxio/hyperdx/stargazers)  
    Open-source observability and product telemetry platform correlating session replay, user interaction traces, application logs, and backend exceptions into a unified timeline view.
 
-8. **[Highlight](https://github.com/highlight/highlight)** [![GitHub stars](https://img.shields.io/github/stars/highlight/highlight?style=social&color=white)](https://github.com/highlight/highlight/stargazers)  
+8. **[Highlight](https://github.com/highlight/highlight)** [![GitHub_Stars](https://img.shields.io/github/stars/highlight/highlight?style=social&color=white)](https://github.com/highlight/highlight/stargazers)  
    Open-source fullstack monitoring platform pairing session replay, error tracking, funnel analytics, and OpenTelemetry logging for fullstack web and mobile applications.
 
-9. **[GrowthBook](https://github.com/growthbook/growthbook)** [![GitHub stars](https://img.shields.io/github/stars/growthbook/growthbook?style=social&color=white)](https://github.com/growthbook/growthbook/stargazers)  
+9. **[GrowthBook](https://github.com/growthbook/growthbook)** [![GitHub_Stars](https://img.shields.io/github/stars/growthbook/growthbook?style=social&color=white)](https://github.com/growthbook/growthbook/stargazers)  
    Open-source feature flag and A/B experimentation platform that connects directly to your existing data warehouse (Snowflake, BigQuery, ClickHouse, Redshift) with advanced Bayesian and Frequentist statistics engines.
 
-10. **[Snowplow](https://github.com/snowplow/snowplow)** [![GitHub stars](https://img.shields.io/github/stars/snowplow/snowplow?style=social&color=white)](https://github.com/snowplow/snowplow/stargazers)  
+10. **[Snowplow](https://github.com/snowplow/snowplow)** [![GitHub_Stars](https://img.shields.io/github/stars/snowplow/snowplow?style=social&color=white)](https://github.com/snowplow/snowplow/stargazers)  
     Enterprise-grade behavioral data collection platform for generating and modeling rich, structured event data directly into data warehouses and lakehouses in real time.
 
-11. **[OpenPanel](https://github.com/Openpanel-dev/openpanel)** [![GitHub stars](https://img.shields.io/github/stars/Openpanel-dev/openpanel?style=social&color=white)](https://github.com/Openpanel-dev/openpanel/stargazers)  
+11. **[OpenPanel](https://github.com/Openpanel-dev/openpanel)** [![GitHub_Stars](https://img.shields.io/github/stars/Openpanel-dev/openpanel?style=social&color=white)](https://github.com/Openpanel-dev/openpanel/stargazers)  
     Privacy-first, open-source web and product analytics platform built on Next.js and ClickHouse. Engineered as a fast, clean, self-hostable alternative to Mixpanel for tracking custom events and funnels.
 
-12. **[Flagsmith](https://github.com/Flagsmith/flagsmith)** [![GitHub stars](https://img.shields.io/github/stars/Flagsmith/flagsmith?style=social&color=white)](https://github.com/Flagsmith/flagsmith/stargazers)  
+12. **[Flagsmith](https://github.com/Flagsmith/flagsmith)** [![GitHub_Stars](https://img.shields.io/github/stars/Flagsmith/flagsmith?style=social&color=white)](https://github.com/Flagsmith/flagsmith/stargazers)  
     Open-source feature flagging and remote configuration system that allows teams to manage feature releases, run percentage rollouts, and target user cohorts across web, mobile, and server SDKs.
 
-13. **[GoatCounter](https://github.com/zgoat/goatcounter)** [![GitHub stars](https://img.shields.io/github/stars/zgoat/goatcounter?style=social&color=white)](https://github.com/zgoat/goatcounter/stargazers)  
+13. **[GoatCounter](https://github.com/zgoat/goatcounter)** [![GitHub_Stars](https://img.shields.io/github/stars/zgoat/goatcounter?style=social&color=white)](https://github.com/zgoat/goatcounter/stargazers)  
     Ultra-lightweight, privacy-respecting web and custom event analytics platform written in Go with no tracking cookies, easy self-hosting, and simple dashboard embeds.
 
-14. **[Countly Community Edition](https://github.com/Countly/countly-server)** [![GitHub stars](https://img.shields.io/github/stars/Countly/countly-server?style=social&color=white)](https://github.com/Countly/countly-server/stargazers)  
+14. **[Countly Community Edition](https://github.com/Countly/countly-server)** [![GitHub_Stars](https://img.shields.io/github/stars/Countly/countly-server?style=social&color=white)](https://github.com/Countly/countly-server/stargazers)  
     Self-hosted open-source mobile and web product analytics backend providing real-time dashboards, user profile tracking, crash reporting, and custom event logging.
 
-15. **[Jitsu](https://github.com/jitsucom/jitsu)** [![GitHub stars](https://img.shields.io/github/stars/jitsucom/jitsu?style=social&color=white)](https://github.com/jitsucom/jitsu/stargazers)  
+15. **[Jitsu](https://github.com/jitsucom/jitsu)** [![GitHub_Stars](https://img.shields.io/github/stars/jitsucom/jitsu?style=social&color=white)](https://github.com/jitsucom/jitsu/stargazers)  
     Open-source Customer Data Platform (CDP) and event collection pipeline that ingests event streams and routes them into warehouses, storage, and downstream analytics tools.
 
-16. **[Ackee](https://github.com/electerious/Ackee)** [![GitHub stars](https://img.shields.io/github/stars/electerious/Ackee?style=social&color=white)](https://github.com/electerious/Ackee/stargazers)  
+16. **[Ackee](https://github.com/electerious/Ackee)** [![GitHub_Stars](https://img.shields.io/github/stars/electerious/Ackee?style=social&color=white)](https://github.com/electerious/Ackee/stargazers)  
     Self-hosted, Node.js-based analytics tool with a focus on privacy, clean minimalist dashboards, and a robust GraphQL API for tracking events and page interactions.
 
-17. **[RudderStack](https://github.com/rudderlabs/rudder-server)** [![GitHub stars](https://img.shields.io/github/stars/rudderlabs/rudder-server?style=social&color=white)](https://github.com/rudderlabs/rudder-server/stargazers)  
+17. **[RudderStack](https://github.com/rudderlabs/rudder-server)** [![GitHub_Stars](https://img.shields.io/github/stars/rudderlabs/rudder-server?style=social&color=white)](https://github.com/rudderlabs/rudder-server/stargazers)  
     Enterprise open-source customer data platform core that collects, transforms, and routes behavioral event streams to 200+ analytics destinations and data warehouses.
 
-18. **[Aptabase](https://github.com/aptabase/aptabase)** [![GitHub stars](https://img.shields.io/github/stars/aptabase/aptabase?style=social&color=white)](https://github.com/aptabase/aptabase/stargazers)  
+18. **[Aptabase](https://github.com/aptabase/aptabase)** [![GitHub_Stars](https://img.shields.io/github/stars/aptabase/aptabase?style=social&color=white)](https://github.com/aptabase/aptabase/stargazers)  
     Open-source, privacy-first analytics designed specifically for mobile, desktop, and indie apps with multi-platform SDKs (Flutter, React Native, SwiftUI, Electron, Tauri).
 
-19. **[Swetrix](https://github.com/Swetrix/swetrix-api)** [![GitHub stars](https://img.shields.io/github/stars/Swetrix/swetrix-api?style=social&color=white)](https://github.com/Swetrix/swetrix-api/stargazers)  
+19. **[Swetrix](https://github.com/Swetrix/swetrix-api)** [![GitHub_Stars](https://img.shields.io/github/stars/Swetrix/swetrix-api?style=social&color=white)](https://github.com/Swetrix/swetrix-api/stargazers)  
     Fully open-source, cookieless web & product analytics API offering custom event tracking, conversion funnels, user flow visualizations, and performance monitoring.
 
 ---
