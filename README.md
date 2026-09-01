@@ -22,38 +22,22 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Amplitude](https://amplitude.com/)**  
-  Leading product analytics platform known for deep behavioral analysis, cohorting, North Star metrics, experimentation, and AI-assisted insights. Strong for growth and data teams at scale.
-
-- **[Mixpanel](https://mixpanel.com/)**  
-  Classic event-based product analytics tool excelling at funnels, retention, and self-serve exploration. Popular for its speed, transparent event-based pricing, and generous free tier.
-
-- **[Heap](https://www.heap.io/)**  
-  Autocapture-focused product analytics platform that records user interactions without heavy manual instrumentation, enabling retroactive analysis.
-
-- **[PostHog Cloud](https://posthog.com/)**  
-  Cloud version of the open-source platform offering product analytics, session replay, feature flags, experiments, surveys, and more in one place.
-
-- **[Pendo](https://www.pendo.io/)**  
-  Product experience platform combining analytics with in-app guidance, NPS, and feedback tools for product-led growth and adoption.
-
-- **[FullStory](https://www.fullstory.com/)**  
-  Digital experience analytics platform with high-fidelity session replay, frustration signals, and behavioral insights.
-
-- **[Glassbox](https://www.glassbox.com/)**  
-  Enterprise digital experience and session analytics platform often used in regulated industries.
-
-- **[Quantum Metric](https://www.quantummetric.com/)**  
-  Continuous product design and digital experience platform focused on quantifying the impact of user experience issues.
-
-- **[Countly](https://count.ly/)**  
-  Product analytics platform with strong mobile support, available in both community (open-source) and commercial editions.
-
-- **[June / June.so](https://june.so/)**  
-  Product analytics tools oriented toward B2B SaaS and company-level insights, often praised for simplicity and speed of setup.
-
-- **[Gainsight PX, Userpilot, Indicative, Firebase Analytics](https://www.gainsight.com/)**  
-  Additional platforms covering product experience, in-app guidance, event analytics, and mobile/app analytics (Firebase is tightly integrated with Google’s ecosystem).
+| Platform | Description & Key Features | Pricing (Starting Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Amplitude](https://amplitude.com/)** | Leading product analytics platform known for deep behavioral analysis, cohorting, North Star metrics, session replay, and AI insights. | **$0 / mo** (Free Starter); Paid Plus plan starts at **$49 / mo** (or usage beyond 2M events) | **Free forever**: Up to 2,000,000 events/mo, unlimited seats, core analytics & feature flags |
+| **[Mixpanel](https://mixpanel.com/)** | Event-based product analytics platform excelling at interactive funnels, retention, and self-serve exploration. | **$20 / mo** (Growth tier, billed annually for up to 10k events) | **Free forever**: Up to 1,000,000 events/mo, 10,000 session replays/mo, core reports & unlimited history |
+| **[Heap](https://www.heap.io/)** | Autocapture-focused product and digital experience analytics platform enabling retroactive funnel and path analysis. | **$300 / mo** (Growth tier starting at ~$3,600/yr billed annually) | **Free forever**: Up to 10,000 sessions/mo, 6 months data retention, unlimited charts & funnels |
+| **[PostHog Cloud](https://posthog.com/)** | All-in-one platform featuring product analytics, session replay, feature flags, A/B testing, surveys, and data warehouse. | **$0 / mo** (Pay-as-you-go usage billing kicks in after monthly free tiers) | **Free forever**: 1,000,000 events/mo, 5,000 recordings/mo, 1M flag requests/mo, 100k error exceptions/mo |
+| **[Pendo](https://www.pendo.io/)** | Product experience platform combining user behavior analytics with in-app walkthrough guides, NPS, and feedback tools. | **~$583 / mo** (Base/Growth tier starting at ~$7,000/yr billed annually) | **Free forever (Pendo Free)**: Up to 500 Monthly Active Users (MAUs), unlimited web/mobile keys, core analytics & guides |
+| **[FullStory](https://www.fullstory.com/)** | Digital experience intelligence platform providing high-fidelity session replay, frustration signals, and behavioral funnels. | **~$899 / mo** (Business tier starting at ~$10,788/yr billed annually) | **Free forever (FullstoryFree)**: 30,000 sessions/mo, 5,000 server events/mo, 10 seats, 12 mo retention (or 14-day free trial) |
+| **[Countly Cloud](https://count.ly/)** | Real-time product and mobile analytics platform offering user journeys, crash analytics, and push notifications. | **$175 / mo** (Countly Flex Cloud tier, billed monthly/annually) | **14-day free trial** of Cloud Flex with full analytics access (plus free forever Community Edition self-hosted) |
+| **[Userpilot](https://userpilot.com/)** | Product growth and analytics software providing user behavior tracking, feature adoption funnels, and in-app guidance. | **$299 / mo** (Starter tier for up to 2,000 MAUs, billed annually) | **14-day free trial**: Full feature access up to 2,000 MAUs, no credit card required |
+| **[June / June.so](https://june.so/)** | B2B SaaS-oriented product analytics focusing on company-level insights, activation metrics, and automated feature reports. | **$119 / mo** (Growth tier billed annually / $149/mo monthly) | **Free forever**: Up to 1,000 MAUs, 3 company seats, and core feature reports (or 14-day free trial on Growth) |
+| **[Glassbox](https://www.glassbox.com/)** | Enterprise digital experience and customer journey analytics platform with AI-powered anomaly detection and session replays. | **~$3,000 / mo** (Standard Enterprise tier starting at ~$36,000/yr billed annually) | **30-day trial / interactive sandbox**: Full access to demo environment with sample & live telemetry capture |
+| **[Quantum Metric](https://www.quantummetric.com/)** | Continuous product design platform quantifying user friction, financial impact, and session replays in real time. | **~$2,000 / mo** (Starting package at ~$24,000/yr billed annually) | **14-day free trial / guided sandbox**: Live test telemetry capture and session analysis |
+| **[Gainsight PX](https://www.gainsight.com/product-experience/)** | Product experience and analytics tool tracking user adoption, funnel retention, and in-app engagements. | **$500 / mo** (Starter tier for up to 2,500 MAUs, ~$6,000/yr billed annually) | **14-day free trial**: Full product analytics & engagement suite access up to 2,500 MAUs |
+| **[Indicative](https://www.indicative.com/)** | Customer journey analytics platform connecting directly to data warehouses for multi-path funnel and cohort analysis. | **$950 / mo** (Standard tier / mParticle usage-based plans) | **Free forever**: Up to 25,000,000 events/mo, 3 seats, 6 months data retention (or 30-day enterprise trial) |
+| **[Firebase Analytics](https://firebase.google.com/products/analytics)** | Google's mobile and web app measurement platform with automated event tracking, user properties, and BigQuery integration. | **$0 / mo** (Free Spark Plan; Blaze pay-as-you-go starts at $0 + compute costs) | **Free forever**: Unlimited app users and events, up to 500 distinct event types, BigQuery exports (10 GB storage/1 TB query free/mo) |
 
 ## Open-Source GitHub Projects
 
